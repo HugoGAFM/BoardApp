@@ -26,7 +26,7 @@ para esse projeto, foram utilizado as seguintes tecnologias:
 Para acessar o projeto, basta seguir esses seguintes passos: 
 
 ### 1. Copiar o Repositório:
- - git clone https://github.com/hugoGAFM/MenuApp.git cd MenuApp
+ - git clone https://github.com/HugoGAFM/BoardApp.git cd MenuApp
 
 ### 2. Criar um banco de dados com o seu nome, usuário e senha. Utilize-os para conectar os dados;
    
